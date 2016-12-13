@@ -1,0 +1,53 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. A 3-phase synchronous generator is operating at a constant load while the excitation is adjusted to give unity pf current. If the excitation is now increased, the pf will&lt;&lt;&#10;( ) become leading&#10;(x) become lagging&#10;( ) remain at unity&#10;( ) become zero&#10;&#10;&gt;&gt;2) A synchronous motor with negligible armature resistance runs at a load angle of 20⁰ at rated frequency. If supply frequency is increased by 10%, keeping other parameters constant, the new load angle will be&lt;&lt;&#10;( ) 16⁰&#10;( ) 18⁰&#10;(x) 20⁰&#10;( ) 22⁰&#10;&#10;&gt;&gt;3) The constant speed of a synchronous motor can be changed to new fixed value by&lt;&lt;&#10;(x) changing the frequency of supply&#10;( ) changing the applied voltage&#10;( ) changing the load&#10;( ) interchanging any two phases&#10;&#10;&gt;&gt;4) A synchronous motor working on leading power factor and not driving any mechanical, is known&lt;&lt;&#10;( ) synchronous induction motor&#10;( ) spinning motor&#10;(x) synchronous condenser&#10;( ) none of the above&#10;&#10;&gt;&gt;5) In a synchronous motor if the back emf generated in the armature at no load is approximately equal to the applied voltage, then&lt;&lt;&#10;( ) the excitation is said to be zero percent&#10;( ) the motor is said to be fully loaded&#10;(x) the excitation is said to be 100%&#10;( ) the torque generated is maximum">
+<p>1. A 3-phase synchronous generator is operating at a constant load while the excitation is adjusted to give unity pf current. If the excitation is now increased, the pf will</p>
+<multiplechoiceresponse>
+  <choicegroup label="1. A 3-phase synchronous generator is operating at a constant load while the excitation is adjusted to give unity pf current. If the excitation is now increased, the pf will" type="MultipleChoice">
+    <choice correct="false">become leading</choice>
+    <choice correct="true">become lagging</choice>
+    <choice correct="false">remain at unity</choice>
+    <choice correct="false">become zero</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) A synchronous motor with negligible armature resistance runs at a load angle of 20⁰ at rated frequency. If supply frequency is increased by 10%, keeping other parameters constant, the new load angle will be</p>
+<multiplechoiceresponse>
+  <choicegroup label="2) A synchronous motor with negligible armature resistance runs at a load angle of 20⁰ at rated frequency. If supply frequency is increased by 10%, keeping other parameters constant, the new load angle will be" type="MultipleChoice">
+    <choice correct="false">16⁰</choice>
+    <choice correct="false">18⁰</choice>
+    <choice correct="true">20⁰</choice>
+    <choice correct="false">22⁰</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) The constant speed of a synchronous motor can be changed to new fixed value by</p>
+<multiplechoiceresponse>
+  <choicegroup label="3) The constant speed of a synchronous motor can be changed to new fixed value by" type="MultipleChoice">
+    <choice correct="true">changing the frequency of supply</choice>
+    <choice correct="false">changing the applied voltage</choice>
+    <choice correct="false">changing the load</choice>
+    <choice correct="false">interchanging any two phases</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) A synchronous motor working on leading power factor and not driving any mechanical, is known</p>
+<multiplechoiceresponse>
+  <choicegroup label="4) A synchronous motor working on leading power factor and not driving any mechanical, is known" type="MultipleChoice">
+    <choice correct="false">synchronous induction motor</choice>
+    <choice correct="false">spinning motor</choice>
+    <choice correct="true">synchronous condenser</choice>
+    <choice correct="false">none of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) In a synchronous motor if the back emf generated in the armature at no load is approximately equal to the applied voltage, then</p>
+<multiplechoiceresponse>
+  <choicegroup label="5) In a synchronous motor if the back emf generated in the armature at no load is approximately equal to the applied voltage, then" type="MultipleChoice">
+    <choice correct="false">the excitation is said to be zero percent</choice>
+    <choice correct="false">the motor is said to be fully loaded</choice>
+    <choice correct="true">the excitation is said to be 100%</choice>
+    <choice correct="false">the torque generated is maximum</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
