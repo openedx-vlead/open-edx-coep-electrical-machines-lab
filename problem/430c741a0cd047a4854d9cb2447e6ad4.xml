@@ -1,0 +1,53 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. High frequency on aircraft alternators is selected in order to&lt;&lt;&#10;( ) free the systems from external disturbance&#10;( ) compensate for high speeds&#10;( ) compensate for high altitudes&#10;(x) reduce the bulk.&#10;&#10;&gt;&gt;2) If the input to the prime mover of an alternator is kept constant but the excitation is changed then the&lt;&lt;&#10;( ) power factor of load remains constant&#10;(x) reactive component of the output is changed&#10;( ) power factor of load remains constant&#10;( ) active component of the output is changed&#10;&#10;&gt;&gt;3) The advantage of salient poles in an alternator is&lt;&lt;&#10;( ) reduce noise&#10;( ) reduced windage loss&#10;(x) adoptability to low and medium speed operation&#10;( ) reduce bearing loads and noise.&#10;&#10;&gt;&gt;4) A three phase alternator has a phase sequence of RYB for its three output voltages, for clockwise rotation. Now if the alternator is rotated anticlockwise, the phase sequence will be&lt;&lt;&#10;( ) RYB&#10;( ) BYR&#10;(x) RBY&#10;( ) none of the above&#10;&#10;&gt;&gt;5) In order to reduce the harmonics in the emf generated in an alternator&lt;&lt;&#10;( ) slots are skewed&#10;( ) salient pole tips are chamfered&#10;( ) winding is well distributed&#10;(x) all of the above">
+<p>1. High frequency on aircraft alternators is selected in order to</p>
+<multiplechoiceresponse>
+  <choicegroup label="1. High frequency on aircraft alternators is selected in order to" type="MultipleChoice">
+    <choice correct="false">free the systems from external disturbance</choice>
+    <choice correct="false">compensate for high speeds</choice>
+    <choice correct="false">compensate for high altitudes</choice>
+    <choice correct="true">reduce the bulk.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) If the input to the prime mover of an alternator is kept constant but the excitation is changed then the</p>
+<multiplechoiceresponse>
+  <choicegroup label="2) If the input to the prime mover of an alternator is kept constant but the excitation is changed then the" type="MultipleChoice">
+    <choice correct="false">power factor of load remains constant</choice>
+    <choice correct="true">reactive component of the output is changed</choice>
+    <choice correct="false">power factor of load remains constant</choice>
+    <choice correct="false">active component of the output is changed</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) The advantage of salient poles in an alternator is</p>
+<multiplechoiceresponse>
+  <choicegroup label="3) The advantage of salient poles in an alternator is" type="MultipleChoice">
+    <choice correct="false">reduce noise</choice>
+    <choice correct="false">reduced windage loss</choice>
+    <choice correct="true">adoptability to low and medium speed operation</choice>
+    <choice correct="false">reduce bearing loads and noise.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) A three phase alternator has a phase sequence of RYB for its three output voltages, for clockwise rotation. Now if the alternator is rotated anticlockwise, the phase sequence will be</p>
+<multiplechoiceresponse>
+  <choicegroup label="4) A three phase alternator has a phase sequence of RYB for its three output voltages, for clockwise rotation. Now if the alternator is rotated anticlockwise, the phase sequence will be" type="MultipleChoice">
+    <choice correct="false">RYB</choice>
+    <choice correct="false">BYR</choice>
+    <choice correct="true">RBY</choice>
+    <choice correct="false">none of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) In order to reduce the harmonics in the emf generated in an alternator</p>
+<multiplechoiceresponse>
+  <choicegroup label="5) In order to reduce the harmonics in the emf generated in an alternator" type="MultipleChoice">
+    <choice correct="false">slots are skewed</choice>
+    <choice correct="false">salient pole tips are chamfered</choice>
+    <choice correct="false">winding is well distributed</choice>
+    <choice correct="true">all of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

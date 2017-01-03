@@ -1,0 +1,53 @@
+<problem display_name="Multiple Choice" markdown="&gt;&gt;1. The absolute speed of the magnetic field in space of a 3-phase rotor-fed IM is&lt;&lt;&#10;( ) synchronous speed, Ns&#10;( ) rotor speed, Nr&#10;(x) (Ns - Nr)&#10;( ) Ns + Nr&#10;&#10;&gt;&gt;2) A voltmeter gives 120 oscillations per minute when connected to the rotor of an IM. The stator frequency is 50 Hz. The slip of the motor is (a) (b) (c) 4% (d) 5%&lt;&lt;&#10;( ) 2%&#10;( ) 2.5%&#10;(x) 4%&#10;( ) 5%&#10;&#10;&gt;&gt;3) Semiclosed slots or totally enclosed slots are used in 3-phase induction motors, essentially to&lt;&lt;&#10;( ) improve starting torque&#10;( ) increase pull-out torque&#10;( ) reduce magnetizing current and improve pf&#10;(x) increase efficiency&#10;&#10;&gt;&gt;4) The rotor power output of 3-phase IM is 15 kW and corresponding slip is 4%. The rotor ohmic loss will be&lt;&lt;&#10;(x) 625 W&#10;( ) 650 W&#10;( ) 700 W&#10;( ) 600 W&#10;&#10;&gt;&gt;5) Which one of the following can be obtained by the equivalent circuit of an electrical machine?&lt;&lt;&#10;( ) Temperature rise in the cores&#10;(x) Complete performance characteristics of the machine&#10;( ) type of protection used in the machine&#10;( ) Design parameters of the windings">
+<p>1. The absolute speed of the magnetic field in space of a 3-phase rotor-fed IM is</p>
+<multiplechoiceresponse>
+  <choicegroup label="1. The absolute speed of the magnetic field in space of a 3-phase rotor-fed IM is" type="MultipleChoice">
+    <choice correct="false">synchronous speed, Ns</choice>
+    <choice correct="false">rotor speed, Nr</choice>
+    <choice correct="true">(Ns - Nr)</choice>
+    <choice correct="false">Ns + Nr</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2) A voltmeter gives 120 oscillations per minute when connected to the rotor of an IM. The stator frequency is 50 Hz. The slip of the motor is (a) (b) (c) 4% (d) 5%</p>
+<multiplechoiceresponse>
+  <choicegroup label="2) A voltmeter gives 120 oscillations per minute when connected to the rotor of an IM. The stator frequency is 50 Hz. The slip of the motor is (a) (b) (c) 4% (d) 5%" type="MultipleChoice">
+    <choice correct="false">2%</choice>
+    <choice correct="false">2.5%</choice>
+    <choice correct="true">4%</choice>
+    <choice correct="false">5%</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3) Semiclosed slots or totally enclosed slots are used in 3-phase induction motors, essentially to</p>
+<multiplechoiceresponse>
+  <choicegroup label="3) Semiclosed slots or totally enclosed slots are used in 3-phase induction motors, essentially to" type="MultipleChoice">
+    <choice correct="false">improve starting torque</choice>
+    <choice correct="false">increase pull-out torque</choice>
+    <choice correct="false">reduce magnetizing current and improve pf</choice>
+    <choice correct="true">increase efficiency</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4) The rotor power output of 3-phase IM is 15 kW and corresponding slip is 4%. The rotor ohmic loss will be</p>
+<multiplechoiceresponse>
+  <choicegroup label="4) The rotor power output of 3-phase IM is 15 kW and corresponding slip is 4%. The rotor ohmic loss will be" type="MultipleChoice">
+    <choice correct="true">625 W</choice>
+    <choice correct="false">650 W</choice>
+    <choice correct="false">700 W</choice>
+    <choice correct="false">600 W</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5) Which one of the following can be obtained by the equivalent circuit of an electrical machine?</p>
+<multiplechoiceresponse>
+  <choicegroup label="5) Which one of the following can be obtained by the equivalent circuit of an electrical machine?" type="MultipleChoice">
+    <choice correct="false">Temperature rise in the cores</choice>
+    <choice correct="true">Complete performance characteristics of the machine</choice>
+    <choice correct="false">type of protection used in the machine</choice>
+    <choice correct="false">Design parameters of the windings</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
