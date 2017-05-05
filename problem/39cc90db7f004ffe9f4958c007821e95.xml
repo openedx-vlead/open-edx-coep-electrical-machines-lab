@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1. A 3-phase, star-connected SRIM is fed from 400 V, 50 Hz source. Stator to rotor effective turns ratio is 2. At a rotor speed of 1440 rpm, the rotor induced emf per phase would be&lt;&lt;&#10;(x) 4.62 V&#10;( ) 46.2 V&#10;( ) 8.0 V&#10;( ) 9.24 V&#10;&#10;&gt;&gt;2) When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by&lt;&lt;&#10;( ) 10%&#10;( ) 20%&#10;(x) 36%&#10;( ) 40%&#10;&#10;&gt;&gt;3) When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by&lt;&lt;&#10;( ) 10%&#10;( ) 20%&#10;(x) 36%&#10;( ) 40%&#10;&#10;&gt;&gt;4) Starting torque of a 3-phase IM varies as&lt;&lt;&#10;( ) f&#10;( ) 1/f&#10;( ) 1/f^2&#10;(x) 1/f^3&#10;&#10;&gt;&gt;5) Maximum torque in a 3-phase IM varies as&lt;&lt;&#10;( ) f&#10;( ) 1/f&#10;(x) 1/f^2&#10;( ) 1/f^3">
-<p>1. A 3-phase, star-connected SRIM is fed from 400 V, 50 Hz source. Stator to rotor effective turns ratio is 2. At a rotor speed of 1440 rpm, the rotor induced emf per phase would be</p>
-<multiplechoiceresponse>
-  <choicegroup label="1. A 3-phase, star-connected SRIM is fed from 400 V, 50 Hz source. Stator to rotor effective turns ratio is 2. At a rotor speed of 1440 rpm, the rotor induced emf per phase would be" type="MultipleChoice">
-    <choice correct="true">4.62 V</choice>
-    <choice correct="false">46.2 V</choice>
-    <choice correct="false">8.0 V</choice>
-    <choice correct="false">9.24 V</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2) When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by</p>
-<multiplechoiceresponse>
-  <choicegroup label="2) When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by" type="MultipleChoice">
-    <choice correct="false">10%</choice>
-    <choice correct="false">20%</choice>
-    <choice correct="true">36%</choice>
-    <choice correct="false">40%</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3) When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by</p>
-<multiplechoiceresponse>
-  <choicegroup label="3) When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by" type="MultipleChoice">
-    <choice correct="false">10%</choice>
-    <choice correct="false">20%</choice>
-    <choice correct="true">36%</choice>
-    <choice correct="false">40%</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4) Starting torque of a 3-phase IM varies as</p>
-<multiplechoiceresponse>
-  <choicegroup label="4) Starting torque of a 3-phase IM varies as" type="MultipleChoice">
-    <choice correct="false">f</choice>
-    <choice correct="false">1/f</choice>
-    <choice correct="false">1/f^2</choice>
-    <choice correct="true">1/f^3</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5) Maximum torque in a 3-phase IM varies as</p>
-<multiplechoiceresponse>
-  <choicegroup label="5) Maximum torque in a 3-phase IM varies as" type="MultipleChoice">
-    <choice correct="false">f</choice>
-    <choice correct="false">1/f</choice>
-    <choice correct="true">1/f^2</choice>
-    <choice correct="false">1/f^3</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. A 3-phase, star-connected SRIM is fed from 400 V, 50 Hz source. Stator to rotor effective turns ratio is 2. At a rotor speed of 1440 rpm, the rotor induced emf per phase would be</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. A 3-phase, star-connected SRIM is fed from 400 V, 50 Hz source. Stator to rotor effective turns ratio is 2. At a rotor speed of 1440 rpm, the rotor induced emf per phase would be" type="MultipleChoice">
+      <choice correct="true">4.62 V</choice>
+      <choice correct="false">46.2 V</choice>
+      <choice correct="false">8.0 V</choice>
+      <choice correct="false">9.24 V</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by" type="MultipleChoice">
+      <choice correct="false">10%</choice>
+      <choice correct="false">20%</choice>
+      <choice correct="true">36%</choice>
+      <choice correct="false">40%</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) When the supply voltage to a 3-phase SCIM is reduced by 20%, the maximum torque will decrease by" type="MultipleChoice">
+      <choice correct="false">10%</choice>
+      <choice correct="false">20%</choice>
+      <choice correct="true">36%</choice>
+      <choice correct="false">40%</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) Starting torque of a 3-phase IM varies as</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) Starting torque of a 3-phase IM varies as" type="MultipleChoice">
+      <choice correct="false">f</choice>
+      <choice correct="false">1/f</choice>
+      <choice correct="false">1/f^2</choice>
+      <choice correct="true">1/f^3</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Maximum torque in a 3-phase IM varies as</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) Maximum torque in a 3-phase IM varies as" type="MultipleChoice">
+      <choice correct="false">f</choice>
+      <choice correct="false">1/f</choice>
+      <choice correct="true">1/f^2</choice>
+      <choice correct="false">1/f^3</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

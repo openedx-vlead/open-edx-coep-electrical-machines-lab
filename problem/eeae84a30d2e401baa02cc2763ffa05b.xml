@@ -1,43 +1,38 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;The mechanical power developed by the armature of a DC motor is equal to&lt;&lt;&#10;(x) armature current multiplied by back emf&#10;( ) power input minus losses&#10;( ) power output multiplied by efficiency&#10;( ) power output plus iron losses&#10;&#10;&gt;&gt;The shaft torque of an DC Motor is less than its armature torque because of&lt;&lt;&#10;( ) Copper losses&#10;( ) mechanical losses&#10;( ) iron losses&#10;(x) rotational losses&#10;&#10;&gt;&gt;The Eb/V ratio of a DC motor is an indication of its&lt;&lt;&#10;( ) starting torque&#10;( ) speed regulation&#10;(x) efficiency&#10;( ) running torque&#10;&#10;&gt;&gt;If load on DC shunt motor is increased, its speed&lt;&lt;&#10;( ) increase proportionately&#10;(x) reduces slightly&#10;( ) increases slightly&#10;( ) remains constant">
-<p>The mechanical power developed by the armature of a DC motor is equal to</p>
-<multiplechoiceresponse>
-  <choicegroup label="The mechanical power developed by the armature of a DC motor is equal to" type="MultipleChoice">
-    <choice correct="true">armature current multiplied by back emf</choice>
-    <choice correct="false">power input minus losses</choice>
-    <choice correct="false">power output multiplied by efficiency</choice>
-    <choice correct="false">power output plus iron losses</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The shaft torque of an DC Motor is less than its armature torque because of</p>
-<multiplechoiceresponse>
-  <choicegroup label="The shaft torque of an DC Motor is less than its armature torque because of" type="MultipleChoice">
-    <choice correct="false">Copper losses</choice>
-    <choice correct="false">mechanical losses</choice>
-    <choice correct="false">iron losses</choice>
-    <choice correct="true">rotational losses</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>The Eb/V ratio of a DC motor is an indication of its</p>
-<multiplechoiceresponse>
-  <choicegroup label="The Eb/V ratio of a DC motor is an indication of its" type="MultipleChoice">
-    <choice correct="false">starting torque</choice>
-    <choice correct="false">speed regulation</choice>
-    <choice correct="true">efficiency</choice>
-    <choice correct="false">running torque</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>If load on DC shunt motor is increased, its speed</p>
-<multiplechoiceresponse>
-  <choicegroup label="If load on DC shunt motor is increased, its speed" type="MultipleChoice">
-    <choice correct="false">increase proportionately</choice>
-    <choice correct="true">reduces slightly</choice>
-    <choice correct="false">increases slightly</choice>
-    <choice correct="false">remains constant</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>The mechanical power developed by the armature of a DC motor is equal to</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The mechanical power developed by the armature of a DC motor is equal to" type="MultipleChoice">
+      <choice correct="true">armature current multiplied by back emf</choice>
+      <choice correct="false">power input minus losses</choice>
+      <choice correct="false">power output multiplied by efficiency</choice>
+      <choice correct="false">power output plus iron losses</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The shaft torque of an DC Motor is less than its armature torque because of</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The shaft torque of an DC Motor is less than its armature torque because of" type="MultipleChoice">
+      <choice correct="false">Copper losses</choice>
+      <choice correct="false">mechanical losses</choice>
+      <choice correct="false">iron losses</choice>
+      <choice correct="true">rotational losses</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>The Eb/V ratio of a DC motor is an indication of its</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The Eb/V ratio of a DC motor is an indication of its" type="MultipleChoice">
+      <choice correct="false">starting torque</choice>
+      <choice correct="false">speed regulation</choice>
+      <choice correct="true">efficiency</choice>
+      <choice correct="false">running torque</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>If load on DC shunt motor is increased, its speed</p>
+  <multiplechoiceresponse>
+    <choicegroup label="If load on DC shunt motor is increased, its speed" type="MultipleChoice">
+      <choice correct="false">increase proportionately</choice>
+      <choice correct="true">reduces slightly</choice>
+      <choice correct="false">increases slightly</choice>
+      <choice correct="false">remains constant</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

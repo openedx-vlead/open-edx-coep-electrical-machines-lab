@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;The frequency of an alternator at a given RPM is determined by&lt;&lt;&#10;( ) number of turns of wire in the armature coil&#10;(x) number of magnetic poles&#10;( ) strength of the magnets used&#10;( ) output voltage&#10;&#10;&gt;&gt;Which of the following will happen to the alternator frequency if the load is removed from a turbo generator, whose governor has a 3% speed droop?&lt;&lt;&#10;( ) it will remain unchanged&#10;( ) it will decrease by approximately 3%&#10;(x) it will increase&#10;( ) it may increase or decrease&#10;&#10;&gt;&gt;Salient pole type rotors as compared to cylindrical pole type are&lt;&lt;&#10;(x) larger in diameter and smaller in axial length&#10;( ) small in diameter as well as axial length&#10;( ) larger in diameter as well as axial length&#10;( ) smaller in diameter and larger in axial length&#10;&#10;&gt;&gt;In a synchronous machine, the field flux axis is ahead of the armature field is in the direction of rotation, the machine is working as&lt;&lt;&#10;( ) asynchronous alternator (B)&#10;( ) asynchronous motor&#10;( ) synchronous motor&#10;(x) synchronous alternator&#10;&#10;&gt;&gt;When a generator designed for operation at 60 Hz is operated at 50 Hz&lt;&lt;&#10;(x) operating voltage must be derated to (50/60) of its original value&#10;( ) operating voltage must be derated to (50/60)2 of its original value&#10;( ) kVA rating can be upgraded to (60/50) of the rated value&#10;( ) the generator will not take any load.&#10;&#10;">
-<p>The frequency of an alternator at a given RPM is determined by</p>
-<multiplechoiceresponse>
-  <choicegroup label="The frequency of an alternator at a given RPM is determined by" type="MultipleChoice">
-    <choice correct="false">number of turns of wire in the armature coil</choice>
-    <choice correct="true">number of magnetic poles</choice>
-    <choice correct="false">strength of the magnets used</choice>
-    <choice correct="false">output voltage</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Which of the following will happen to the alternator frequency if the load is removed from a turbo generator, whose governor has a 3% speed droop?</p>
-<multiplechoiceresponse>
-  <choicegroup label="Which of the following will happen to the alternator frequency if the load is removed from a turbo generator, whose governor has a 3% speed droop?" type="MultipleChoice">
-    <choice correct="false">it will remain unchanged</choice>
-    <choice correct="false">it will decrease by approximately 3%</choice>
-    <choice correct="true">it will increase</choice>
-    <choice correct="false">it may increase or decrease</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Salient pole type rotors as compared to cylindrical pole type are</p>
-<multiplechoiceresponse>
-  <choicegroup label="Salient pole type rotors as compared to cylindrical pole type are" type="MultipleChoice">
-    <choice correct="true">larger in diameter and smaller in axial length</choice>
-    <choice correct="false">small in diameter as well as axial length</choice>
-    <choice correct="false">larger in diameter as well as axial length</choice>
-    <choice correct="false">smaller in diameter and larger in axial length</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>In a synchronous machine, the field flux axis is ahead of the armature field is in the direction of rotation, the machine is working as</p>
-<multiplechoiceresponse>
-  <choicegroup label="In a synchronous machine, the field flux axis is ahead of the armature field is in the direction of rotation, the machine is working as" type="MultipleChoice">
-    <choice correct="false">asynchronous alternator (B)</choice>
-    <choice correct="false">asynchronous motor</choice>
-    <choice correct="false">synchronous motor</choice>
-    <choice correct="true">synchronous alternator</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>When a generator designed for operation at 60 Hz is operated at 50 Hz</p>
-<multiplechoiceresponse>
-  <choicegroup label="When a generator designed for operation at 60 Hz is operated at 50 Hz" type="MultipleChoice">
-    <choice correct="true">operating voltage must be derated to (50/60) of its original value</choice>
-    <choice correct="false">operating voltage must be derated to (50/60)2 of its original value</choice>
-    <choice correct="false">kVA rating can be upgraded to (60/50) of the rated value</choice>
-    <choice correct="false">the generator will not take any load.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>The frequency of an alternator at a given RPM is determined by</p>
+  <multiplechoiceresponse>
+    <choicegroup label="The frequency of an alternator at a given RPM is determined by" type="MultipleChoice">
+      <choice correct="false">number of turns of wire in the armature coil</choice>
+      <choice correct="true">number of magnetic poles</choice>
+      <choice correct="false">strength of the magnets used</choice>
+      <choice correct="false">output voltage</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Which of the following will happen to the alternator frequency if the load is removed from a turbo generator, whose governor has a 3% speed droop?</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Which of the following will happen to the alternator frequency if the load is removed from a turbo generator, whose governor has a 3% speed droop?" type="MultipleChoice">
+      <choice correct="false">it will remain unchanged</choice>
+      <choice correct="false">it will decrease by approximately 3%</choice>
+      <choice correct="true">it will increase</choice>
+      <choice correct="false">it may increase or decrease</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Salient pole type rotors as compared to cylindrical pole type are</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Salient pole type rotors as compared to cylindrical pole type are" type="MultipleChoice">
+      <choice correct="true">larger in diameter and smaller in axial length</choice>
+      <choice correct="false">small in diameter as well as axial length</choice>
+      <choice correct="false">larger in diameter as well as axial length</choice>
+      <choice correct="false">smaller in diameter and larger in axial length</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>In a synchronous machine, the field flux axis is ahead of the armature field is in the direction of rotation, the machine is working as</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In a synchronous machine, the field flux axis is ahead of the armature field is in the direction of rotation, the machine is working as" type="MultipleChoice">
+      <choice correct="false">asynchronous alternator (B)</choice>
+      <choice correct="false">asynchronous motor</choice>
+      <choice correct="false">synchronous motor</choice>
+      <choice correct="true">synchronous alternator</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>When a generator designed for operation at 60 Hz is operated at 50 Hz</p>
+  <multiplechoiceresponse>
+    <choicegroup label="When a generator designed for operation at 60 Hz is operated at 50 Hz" type="MultipleChoice">
+      <choice correct="true">operating voltage must be derated to (50/60) of its original value</choice>
+      <choice correct="false">operating voltage must be derated to (50/60)2 of its original value</choice>
+      <choice correct="false">kVA rating can be upgraded to (60/50) of the rated value</choice>
+      <choice correct="false">the generator will not take any load.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

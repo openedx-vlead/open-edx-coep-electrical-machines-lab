@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1. A cylindrical-rotor alternator on load draws a current at a leading pf angle Ѳ and with an internal pf angle Ψ. Under this operating condition, electrical angle between fiend axis and armature-reaction axis is&lt;&lt;&#10;( ) 90 + Ψ&#10;( ) 90 + Ѳ&#10;(x) 90 – Ψ&#10;( ) 90 - Ѳ&#10;&#10;&gt;&gt;2) Which of the following will change in a 3-phase synchronous motor, as a consequence of excitation variations? 1. Pull-out torque 2. Torque angle 3. Magnitude and power factor of stator current 4. Output power Select the correct answer using the codes given below :&lt;&lt;&#10;( ) 1 and 3&#10;( ) 2 and 4&#10;( ) 2, 3 and 4&#10;(x) 1, 2 and 3&#10;&#10;&gt;&gt;3) A synchronous motor is operating on no load at unity power factor. If the field current is increased, the pf will become&lt;&lt;&#10;( ) leading and the current will decrease&#10;(x) leading and the current will increase&#10;( ) lagging and the current will decrease&#10;( ) lagging and the current will increase&#10;&#10;&gt;&gt;4) The power-angle characteristics of a salient-pole synchronous machine contains a second harmonic terms, because&lt;&lt;&#10;( ) the air-gap flux density has a second harmonic component&#10;( ) the frequency has a second harmonic component&#10;( ) of the slot harmonics&#10;(x) of the difference in reluctance of air-gap in the direct and quadrature axes.&#10;&#10;&gt;&gt;5) In a round-rotor alternator, reactive power is maximum at a load angle of&lt;&lt;&#10;(x) 0⁰&#10;( ) 45⁰&#10;( ) 90⁰&#10;( ) 180⁰">
-<p>1. A cylindrical-rotor alternator on load draws a current at a leading pf angle Ѳ and with an internal pf angle Ψ. Under this operating condition, electrical angle between fiend axis and armature-reaction axis is</p>
-<multiplechoiceresponse>
-  <choicegroup label="1. A cylindrical-rotor alternator on load draws a current at a leading pf angle Ѳ and with an internal pf angle Ψ. Under this operating condition, electrical angle between fiend axis and armature-reaction axis is" type="MultipleChoice">
-    <choice correct="false">90 + Ψ</choice>
-    <choice correct="false">90 + Ѳ</choice>
-    <choice correct="true">90 – Ψ</choice>
-    <choice correct="false">90 - Ѳ</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2) Which of the following will change in a 3-phase synchronous motor, as a consequence of excitation variations? 1. Pull-out torque 2. Torque angle 3. Magnitude and power factor of stator current 4. Output power Select the correct answer using the codes given below :</p>
-<multiplechoiceresponse>
-  <choicegroup label="2) Which of the following will change in a 3-phase synchronous motor, as a consequence of excitation variations? 1. Pull-out torque 2. Torque angle 3. Magnitude and power factor of stator current 4. Output power Select the correct answer using the codes given below :" type="MultipleChoice">
-    <choice correct="false">1 and 3</choice>
-    <choice correct="false">2 and 4</choice>
-    <choice correct="false">2, 3 and 4</choice>
-    <choice correct="true">1, 2 and 3</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3) A synchronous motor is operating on no load at unity power factor. If the field current is increased, the pf will become</p>
-<multiplechoiceresponse>
-  <choicegroup label="3) A synchronous motor is operating on no load at unity power factor. If the field current is increased, the pf will become" type="MultipleChoice">
-    <choice correct="false">leading and the current will decrease</choice>
-    <choice correct="true">leading and the current will increase</choice>
-    <choice correct="false">lagging and the current will decrease</choice>
-    <choice correct="false">lagging and the current will increase</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4) The power-angle characteristics of a salient-pole synchronous machine contains a second harmonic terms, because</p>
-<multiplechoiceresponse>
-  <choicegroup label="4) The power-angle characteristics of a salient-pole synchronous machine contains a second harmonic terms, because" type="MultipleChoice">
-    <choice correct="false">the air-gap flux density has a second harmonic component</choice>
-    <choice correct="false">the frequency has a second harmonic component</choice>
-    <choice correct="false">of the slot harmonics</choice>
-    <choice correct="true">of the difference in reluctance of air-gap in the direct and quadrature axes.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5) In a round-rotor alternator, reactive power is maximum at a load angle of</p>
-<multiplechoiceresponse>
-  <choicegroup label="5) In a round-rotor alternator, reactive power is maximum at a load angle of" type="MultipleChoice">
-    <choice correct="true">0⁰</choice>
-    <choice correct="false">45⁰</choice>
-    <choice correct="false">90⁰</choice>
-    <choice correct="false">180⁰</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. A cylindrical-rotor alternator on load draws a current at a leading pf angle Ѳ and with an internal pf angle Ψ. Under this operating condition, electrical angle between fiend axis and armature-reaction axis is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. A cylindrical-rotor alternator on load draws a current at a leading pf angle Ѳ and with an internal pf angle Ψ. Under this operating condition, electrical angle between fiend axis and armature-reaction axis is" type="MultipleChoice">
+      <choice correct="false">90 + Ψ</choice>
+      <choice correct="false">90 + Ѳ</choice>
+      <choice correct="true">90 – Ψ</choice>
+      <choice correct="false">90 - Ѳ</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) Which of the following will change in a 3-phase synchronous motor, as a consequence of excitation variations? 1. Pull-out torque 2. Torque angle 3. Magnitude and power factor of stator current 4. Output power Select the correct answer using the codes given below :</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) Which of the following will change in a 3-phase synchronous motor, as a consequence of excitation variations? 1. Pull-out torque 2. Torque angle 3. Magnitude and power factor of stator current 4. Output power Select the correct answer using the codes given below :" type="MultipleChoice">
+      <choice correct="false">1 and 3</choice>
+      <choice correct="false">2 and 4</choice>
+      <choice correct="false">2, 3 and 4</choice>
+      <choice correct="true">1, 2 and 3</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) A synchronous motor is operating on no load at unity power factor. If the field current is increased, the pf will become</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) A synchronous motor is operating on no load at unity power factor. If the field current is increased, the pf will become" type="MultipleChoice">
+      <choice correct="false">leading and the current will decrease</choice>
+      <choice correct="true">leading and the current will increase</choice>
+      <choice correct="false">lagging and the current will decrease</choice>
+      <choice correct="false">lagging and the current will increase</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The power-angle characteristics of a salient-pole synchronous machine contains a second harmonic terms, because</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) The power-angle characteristics of a salient-pole synchronous machine contains a second harmonic terms, because" type="MultipleChoice">
+      <choice correct="false">the air-gap flux density has a second harmonic component</choice>
+      <choice correct="false">the frequency has a second harmonic component</choice>
+      <choice correct="false">of the slot harmonics</choice>
+      <choice correct="true">of the difference in reluctance of air-gap in the direct and quadrature axes.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) In a round-rotor alternator, reactive power is maximum at a load angle of</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) In a round-rotor alternator, reactive power is maximum at a load angle of" type="MultipleChoice">
+      <choice correct="true">0⁰</choice>
+      <choice correct="false">45⁰</choice>
+      <choice correct="false">90⁰</choice>
+      <choice correct="false">180⁰</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
