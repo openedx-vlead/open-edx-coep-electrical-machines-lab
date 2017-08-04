@@ -1,53 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;1. Maximum electric power output of a synchronous generator is&lt;&lt;&#10;( ) Xs / VtEf&#10;(x) VtEf / Xs&#10;( ) E2f / Xs&#10;( ) V2t / Xs&#10;&#10;&gt;&gt;2) On changing the speed of an alternator from 4000 rpm to 2000 rpm, the generated emf phase will become&lt;&lt;&#10;(x) 1/2&#10;( ) 1/3&#10;( ) 1/4&#10;( ) 1/5&#10;&#10;&gt;&gt;3) The armature reaction of an alternator will be completely magnetizing in case the load power factor is&lt;&lt;&#10;( ) unity&#10;( ) 0.707&#10;( ) zero lagging&#10;(x) zero leading&#10;&#10;&gt;&gt;4) The rotor of the salient pole alternator has 24 poles. The number of cycles of emf in one revolution would be&lt;&lt;&#10;( ) 4&#10;( ) 6&#10;(x) 12&#10;( ) 24&#10;&#10;&gt;&gt;5) Alternators used in aircraft systems usually have frequency of&lt;&lt;&#10;( ) 25 Hz&#10;( ) 50Hz&#10;( ) 100Hz&#10;(x) 400Hz">
-<p>1. Maximum electric power output of a synchronous generator is</p>
-<multiplechoiceresponse>
-  <choicegroup label="1. Maximum electric power output of a synchronous generator is" type="MultipleChoice">
-    <choice correct="false">Xs / VtEf</choice>
-    <choice correct="true">VtEf / Xs</choice>
-    <choice correct="false">E2f / Xs</choice>
-    <choice correct="false">V2t / Xs</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2) On changing the speed of an alternator from 4000 rpm to 2000 rpm, the generated emf phase will become</p>
-<multiplechoiceresponse>
-  <choicegroup label="2) On changing the speed of an alternator from 4000 rpm to 2000 rpm, the generated emf phase will become" type="MultipleChoice">
-    <choice correct="true">1/2</choice>
-    <choice correct="false">1/3</choice>
-    <choice correct="false">1/4</choice>
-    <choice correct="false">1/5</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3) The armature reaction of an alternator will be completely magnetizing in case the load power factor is</p>
-<multiplechoiceresponse>
-  <choicegroup label="3) The armature reaction of an alternator will be completely magnetizing in case the load power factor is" type="MultipleChoice">
-    <choice correct="false">unity</choice>
-    <choice correct="false">0.707</choice>
-    <choice correct="false">zero lagging</choice>
-    <choice correct="true">zero leading</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4) The rotor of the salient pole alternator has 24 poles. The number of cycles of emf in one revolution would be</p>
-<multiplechoiceresponse>
-  <choicegroup label="4) The rotor of the salient pole alternator has 24 poles. The number of cycles of emf in one revolution would be" type="MultipleChoice">
-    <choice correct="false">4</choice>
-    <choice correct="false">6</choice>
-    <choice correct="true">12</choice>
-    <choice correct="false">24</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5) Alternators used in aircraft systems usually have frequency of</p>
-<multiplechoiceresponse>
-  <choicegroup label="5) Alternators used in aircraft systems usually have frequency of" type="MultipleChoice">
-    <choice correct="false">25 Hz</choice>
-    <choice correct="false">50Hz</choice>
-    <choice correct="false">100Hz</choice>
-    <choice correct="true">400Hz</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. Maximum electric power output of a synchronous generator is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="1. Maximum electric power output of a synchronous generator is" type="MultipleChoice">
+      <choice correct="false">Xs / VtEf</choice>
+      <choice correct="true">VtEf / Xs</choice>
+      <choice correct="false">E2f / Xs</choice>
+      <choice correct="false">V2t / Xs</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2) On changing the speed of an alternator from 4000 rpm to 2000 rpm, the generated emf phase will become</p>
+  <multiplechoiceresponse>
+    <choicegroup label="2) On changing the speed of an alternator from 4000 rpm to 2000 rpm, the generated emf phase will become" type="MultipleChoice">
+      <choice correct="true">1/2</choice>
+      <choice correct="false">1/3</choice>
+      <choice correct="false">1/4</choice>
+      <choice correct="false">1/5</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3) The armature reaction of an alternator will be completely magnetizing in case the load power factor is</p>
+  <multiplechoiceresponse>
+    <choicegroup label="3) The armature reaction of an alternator will be completely magnetizing in case the load power factor is" type="MultipleChoice">
+      <choice correct="false">unity</choice>
+      <choice correct="false">0.707</choice>
+      <choice correct="false">zero lagging</choice>
+      <choice correct="true">zero leading</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4) The rotor of the salient pole alternator has 24 poles. The number of cycles of emf in one revolution would be</p>
+  <multiplechoiceresponse>
+    <choicegroup label="4) The rotor of the salient pole alternator has 24 poles. The number of cycles of emf in one revolution would be" type="MultipleChoice">
+      <choice correct="false">4</choice>
+      <choice correct="false">6</choice>
+      <choice correct="true">12</choice>
+      <choice correct="false">24</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5) Alternators used in aircraft systems usually have frequency of</p>
+  <multiplechoiceresponse>
+    <choicegroup label="5) Alternators used in aircraft systems usually have frequency of" type="MultipleChoice">
+      <choice correct="false">25 Hz</choice>
+      <choice correct="false">50Hz</choice>
+      <choice correct="false">100Hz</choice>
+      <choice correct="true">400Hz</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>
