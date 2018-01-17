@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "EEE10", 
+            "course": "ee10", 
             "name": "COEP-Electrical_Machines.JPG", 
-            "org": "COE-Pune", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "COEP-Electrical Machines.JPG", 
-        "filename": "asset-v1:COE-Pune+EEE10+Anytime+type@asset+block@COEP-Electrical_Machines.JPG", 
+        "filename": "asset-v1:Virtual-Labs+ee10+Anytime+type@asset+block@COEP-Electrical_Machines.JPG", 
         "import_path": "COEP-Electrical Machines.JPG", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "COE-Pune", 
-            "EEE10", 
+            "Virtual-Labs", 
+            "ee10", 
             "thumbnail", 
             "COEP-Electrical_Machines-JPG.jpg", 
             null
